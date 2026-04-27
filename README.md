@@ -36,6 +36,3 @@ Through this project, I developed better coding practices focused on clarity and
 
 ---
 
-## AI Usage Disclosure
-
-Generative AI tools were used to assist with organizing and refining the written portions of this reflection. All work was reviewed and verified to ensure accuracy and alignment with course requirements.
